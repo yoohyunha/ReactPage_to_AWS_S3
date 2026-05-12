@@ -1,6 +1,9 @@
 # ReactPage_to_AWS_S3
 react homepage to AWS S3 - github actions
- 
+
+- [Github CICD 구축 영상](https://youtu.be/Ttj5HPrNfJk)
+- [Amplify 서비스 활용 영상](https://youtu.be/Yr9PLjQpXJA)
+
 ---
 # 1. 시스템 구현하기
 
