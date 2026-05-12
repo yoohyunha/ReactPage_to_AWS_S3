@@ -273,6 +273,7 @@ jobs:
 ```
 
 
+
 2. **새로고침하면 404 에러가 떠요?**
 * SPA(Single Page Application) 특성상 발생하는 문제입니다. S3 정적 웹 호스팅 설정에서 **오류 문서(Error document)** 항목에도 `index.html`을 입력해주면 해결됩니다. (모든 요청을 index.html로 보내서 React 라우터가 처리하게 하는 방식입니다.)
  
